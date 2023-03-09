@@ -1,0 +1,118 @@
+/****** CLASSES GENÉRICAS ******/
+
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+/****** HEADER ******/
+
+header {background-color: gray;}
+
+/* Parte relacionada ao header top */
+ 
+    .header-top {
+
+
+
+}
+
+
+    .contatos {
+
+
+}
+
+    .phone {
+
+
+
+    }
+
+    .email {
+
+
+    }
+
+    .redes-sociais {
+
+
+}
+
+
+/* Parte relacionada ao header bottom */
+
+
+        .header-bottom {
+
+
+        }
+
+        header nav a {text-decoration: none;}
+
+        .logo {
+
+
+        }
+
+
+
+        .menu {
+
+
+        }
+
+
+
+        .menu-usuario {
+
+
+        }
+
+        .menu-elipse {
+
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/****** MAIN ******/
+
+
+
+
+
+/****** FOOTER ******/
+
+
+
+
